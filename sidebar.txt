@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[par:home|Door43 (par)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-par|d43-par repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-par/archive/master.zip|d43-par.zip]]
+
+**Recent Changes**
+{{changes>ns = par}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/par|Ethnologue data]]
+
